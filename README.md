@@ -164,7 +164,7 @@ Now, just fold over the edges of the opening, iron them, and stitch that closed.
 ## You Got It Covered!
 
 Just slide the edges of your book into each pocket and BOOM, you've got yourself a book cover!  I also forgot pictures of this part too.
-
+<!---
 <style type="text/css" rel="stylesheet">
 #wrapper figure {
   height: auto;
@@ -172,3 +172,4 @@ Just slide the edges of your book into each pocket and BOOM, you've got yourself
 }
 
 </style>
+--->
